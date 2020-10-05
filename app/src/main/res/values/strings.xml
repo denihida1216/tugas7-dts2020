@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">DTS Tugas7 DENI HIDAYAT</string>
+    <string name="title_inputnama">Input Nama</string>
+    <string name="title_kalkulator">Kalkulator</string>
+    <string name="title_listview">Listview</string>
+</resources>

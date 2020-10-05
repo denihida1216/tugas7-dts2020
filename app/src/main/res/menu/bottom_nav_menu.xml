@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_inputnama"
+        android:icon="@drawable/ic_baseline_edit_24"
+        android:title="@string/title_inputnama" />
+
+    <item
+        android:id="@+id/navigation_kalkulator"
+        android:icon="@drawable/ic_baseline_account_balance_wallet_24"
+        android:title="@string/title_kalkulator" />
+
+    <item
+        android:id="@+id/navigation_listview"
+        android:icon="@drawable/ic_baseline_format_list_bulleted_24"
+        android:title="@string/title_listview" />
+
+</menu>
